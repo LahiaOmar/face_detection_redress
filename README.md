@@ -1,6 +1,7 @@
 # FACE ROTATION AND REDRESS 
 --- 
 One of the first steps in any pipeline project of machine learning/data science is cleaning data, cleaning data can be applied with different techniques, it depends on the type of data ...
+
 In my internship, the goal was to implement several scientific papers on face recognition. in our case, one of the problems is when we have a rotated face in our images ( training and testing ), for that we develop this script which can redress any face on an image.
 
 algorithm :
